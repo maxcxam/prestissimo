@@ -1,12 +1,12 @@
 {
-    "name": "hirak/prestissimo",
+    "name": "maxcxam/prestissimo",
     "description": "composer parallel install plugin for Composer 1.x",
     "type": "composer-plugin",
     "keywords": ["parallel", "install", "speedup"],
     "authors": [
         {
-            "name": "Hiraku NAKANO",
-            "email": "hiraku@tojiru.net"
+            "name": "maxcxam@Hiraku NAKANO",
+            "email": "maxcxam1979@gmail.com"
         }
     ],
     "license": "MIT",
